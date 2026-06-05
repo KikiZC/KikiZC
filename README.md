@@ -3,9 +3,9 @@
 </div>
 
 ```
-╔═══════════════════════════════════════════════╗
-║  KikiZC@github:~$ whoami                         ║
-╠═══════════════════════════════════════════════╣
+╔══════════════════════════════════════════════════╗
+║  KikiZC@github:~$ whoami                        ║
+╠══════════════════════════════════════════════════╣
 ║                                                  ║
 ║  Networking grad from Czech Republic.            ║
 ║  Self-host everything I possibly can.            ║
@@ -13,7 +13,7 @@
 ║  game servers, local LLMs, and more.             ║
 ║  Write C#, Python, and just enough JS.           ║
 ║                                                  ║
-╚═══════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════╝
 ```
 
 <details>
@@ -21,15 +21,15 @@
 <br>
 
 ```
-┌── languages ─────────────────────────────────────┐
+┌── languages ──────────────────────────────────────┐
 │  C#            ██████████████░░░░░░               │
 │  Python        ████████████░░░░░░░░               │
 │  JavaScript    █████░░░░░░░░░░░░░░░               │
 │  HTML / CSS    ████░░░░░░░░░░░░░░░░               │
-└─────────────────────────────────────────────────┘
-┌── infrastructure ────────────────────────────────┐
-│  Linux · Docker · Nginx · Grafana · Matrix         │
-└─────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────┘
+┌── infrastructure ─────────────────────────────────┐
+│  Linux · Docker · Nginx · Grafana · Matrix        │
+└───────────────────────────────────────────────────┘
 ```
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -50,15 +50,15 @@
 <br>
 
 ```console
-┌── home server ───────────────────────────────────┐
-│  jellyfin      media server                        │
-│  llama.cpp     local LLM inference                 │
-│  docker        containerized services              │
-└─────────────────────────────────────────────────┘
+┌── home server ────────────────────────────────────┐
+│  jellyfin      media server                         │
+│  llama.cpp     local LLM inference                │
+│  docker        containerized services             │
+└───────────────────────────────────────────────────┘
 ```
 
 ```
-┌── action-games.cz ──────────────────────────────┐
+┌── action-games.cz ────────────────────────────────┐
 │  matrix        synapse + bridges                  │
 │                (WhatsApp · Discord ·              │
 │                 Instagram · Google Messages)      │
@@ -68,7 +68,7 @@
 │  groupoffice   self-hosted mail                   │
 │  vikunja       task management                    │
 │  nginx         reverse proxy + SSL                │
-└────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────┘
 ```
 
 co-hosted with [@KarlBox28](https://github.com/KarlBox28)
