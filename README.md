@@ -4,7 +4,7 @@
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  KikiZC@github:~$ whoami                        ║
+║  KikiZC@github:~$ whoami                         ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
 ║  Networking grad from Czech Republic.            ║
@@ -51,7 +51,7 @@
 
 ```console
 ┌── home server ────────────────────────────────────┐
-│  jellyfin      media server                         │
+│  jellyfin      media server                       │
 │  llama.cpp     local LLM inference                │
 │  docker        containerized services             │
 └───────────────────────────────────────────────────┘
