@@ -91,16 +91,6 @@ co-hosted with [@KarlBox28](https://github.com/KarlBox28)
 ---
 
 ```
-┌── $ git stats ────────────────────────────────────┐
-```
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=KikiZC&theme=dark&hide_border=true&background=0d1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
-</div>
-
----
-
-```
 ┌── $ cat contacts.txt ─────────────────────────────┐
 ```
 
