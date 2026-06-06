@@ -87,6 +87,7 @@ co-hosted with [@KarlBox28](https://github.com/KarlBox28)
 | [AND-the-game](https://github.com/KikiZC/AND-the-game) | Sandbox game built around logic gates | Python, Pygame |
 | [KubeCrafter](https://github.com/KikiZC/KubeCrafter) | Helper tool for KubeJS Minecraft mod `[WIP]` | C# |
 | [nixie-tube-clock](https://github.com/KikiZC/nixie-tube-clock) | Clock displaying time via nixie tube images | Python, Pygame |
+| [homelab](https://github.com/KikiZC/homelab) | Self-hosted infrastructure — Matrix, Jellyfin, Grafana and more | Linux, Docker |
 
 ---
 
