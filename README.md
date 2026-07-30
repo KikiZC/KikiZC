@@ -83,10 +83,10 @@ co-hosted with [@KarlBox28](https://github.com/KarlBox28)
 
 | Project | Description | Tech |
 |---|---|---|
+| [Nexum](https://git.action-games.cz/kikizc/MatrixClient) | Desktop Matrix client — E2EE, calls, threads, spaces `[WIP]` | C#, Avalonia, .NET 10 |
+| [MatrixSDK](https://git.action-games.cz/kikizc/MatrixSDK) | Matrix protocol library with full E2EE `[WIP]` | C#, .NET 10, Olm |
 | [CtrlPay](https://github.com/WeeeBuch/CtrlPay) | Payment management system — team project (frontend + API logic) | C#, Avalonia |
 | [AND-the-game](https://github.com/KikiZC/AND-the-game) | Sandbox game built around logic gates | Python, Pygame |
-| [KubeCrafter](https://github.com/KikiZC/KubeCrafter) | Helper tool for KubeJS Minecraft mod `[WIP]` | C# |
-| [nixie-tube-clock](https://github.com/KikiZC/nixie-tube-clock) | Clock displaying time via nixie tube images | Python, Pygame |
 | [homelab](https://github.com/KikiZC/homelab) | Self-hosted infrastructure — Matrix, Jellyfin, Grafana and more | Linux, Docker |
 
 ---
